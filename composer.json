@@ -1,6 +1,6 @@
 {
     "name": "ravenflux/ravenflux",
-    "description": "RavenFlux Twig functions",
+    "description": "Useful Twig extensions",
     "type": "library",
     "keywords": [
         "env",
